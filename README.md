@@ -37,3 +37,7 @@ Go to "/keypoint_classifier_label.csv" file to give each sign a name
 Run the "keyoint_classification.ipynb" to train the model so that you will be able to use it.
 
 Same process with point history to add moving gestures.
+
+### Sources: 
+
+https://github.com/google/mediapipe
