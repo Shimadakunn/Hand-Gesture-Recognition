@@ -40,4 +40,4 @@ Same process with point history to add moving gestures.
 
 ### Sources: 
 
-https://github.com/google/mediapipe
+https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe
